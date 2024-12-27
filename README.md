@@ -1,2 +1,2 @@
-# Luxstores-no.io
+# Luxstores.github.io
 Luxstoresbymajesty
